@@ -1,7 +1,4 @@
 # Intro to Python Homework: PyBank and PyPoll
+Please see the included PyBank and PyPoll challenges. 
 
-The homework instructions and requirements are located in Canvas.
-
-- - -
-
-© 2023 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
+Course materials and videos uploaded by the instructor were used to help complete the module 3 challenge. Xpert Learning assistant was referenced for some formatting issues. 
